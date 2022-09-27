@@ -1,2 +1,2 @@
-# itBerg.github.io
-My first site
+# itBerg
+Моя учеба
